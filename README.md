@@ -65,10 +65,3 @@ Immersive landing page powered by **Three.js** + **GSAP animations**.
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadafnemani&layout=compact&theme=vue-dark&hide_border=true&langs_count=6" />
 </p>
-
----
-
-<!-- Footer Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=63BA0B&height=120&section=footer"/>
-</p>
