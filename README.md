@@ -8,11 +8,10 @@
 
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"/> Hey, I’m Sadaf 
 I’m a **Front-End Developer** passionate about building **smooth, modern, and user-friendly** web apps.  
-I love **React, Next.js, and UI/UX**, blending **design and code** to craft seamless digital experiences.
+I love blending **design and code** to craft seamless digital experiences.
 
 ---
 ### 📚 Currently Learning
-- <img src="https://skillicons.dev/icons?i=tailwind" width="20"/> Tailwind CSS & Aceternity UI  
 - <img src="https://go-skill-icons.vercel.app/api/icons?i=gsap,framer" width="40"/> GSAP & Framer Motion (animations)  
 - <img src="https://skillicons.dev/icons?i=threejs" width="20"/> Three.js (3D web experiences)
 ---
@@ -24,7 +23,9 @@ I love **React, Next.js, and UI/UX**, blending **design and code** to craft seam
 ### 🛠️ Tech Stack
 
 **Frontend:**  
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind" height=30/>  
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind" height=30/>
+<img src="https://img.shields.io/badge/Aceternity%20UI-0A0A0A?style=for-the-badge&logoColor=white" height=30/>
+
 
 **Backend & DB:**  
 <img src="https://skillicons.dev/icons?i=php,mysql,express,nodejs" height=30/>  
