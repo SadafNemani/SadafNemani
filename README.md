@@ -12,8 +12,8 @@ I love blending **design and code** to craft seamless digital experiences.
 
 ---
 ### 📚 Currently Learning
-- <img src="https://go-skill-icons.vercel.app/api/icons?i=gsap,framer" width="40"/> GSAP & Framer Motion (animations)  
-- <img src="https://skillicons.dev/icons?i=threejs" width="20"/> Three.js (3D web experiences)
+- ♿ Accessibility (a11y)
+- 🔐 Security Practices (Front-End)
 ---
 ### 📬 How to Reach Me  
 <a href="mailto:sedefnemani@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -25,6 +25,7 @@ I love blending **design and code** to craft seamless digital experiences.
 **Frontend:**  
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind" height=30/>
 <img src="https://img.shields.io/badge/Aceternity%20UI-0A0A0A?style=for-the-badge&logoColor=white" height=30/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=gsap,framer" height=30/>
 
 
 **Backend & DB:**  
