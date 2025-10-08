@@ -57,13 +57,3 @@ Immersive landing page powered by **Three.js** + **GSAP animations**.
 ![Three.js](https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=three.js) 
 ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock) 
 -->
----
-### 📊 Activity & Contributions  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sadafnemani&show_icons=true&theme=vue-dark&title_color=63BA0B&icon_color=63BA0B&hide_border=true" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sadafnemani&theme=vue-dark&ring=63BA0B&fire=63BA0B&currStreakLabel=63BA0B&hide_border=true" height="150"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadafnemani&layout=compact&theme=vue-dark&hide_border=true&langs_count=6" />
-</p>
