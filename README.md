@@ -1,13 +1,12 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=63BA0B&center=true&vCenter=true&width=600&lines=Hi+I'm+Sadaf+Nemani;Front-End+Developer;I+design+,+I+Code+,+I+Animate;React+%7C+Next.js+%7C+TypeScript" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=63BA0B&center=true&vCenter=true&width=600&lines=Hi+I'm+Sadaf+Nemani;I+design+,+I+Code+,+I+Animate;React+%7C+Next.js+%7C+TypeScript" alt="Typing SVG" />
 </p>
 
 
 ---
 
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"/> Hey, I’m Sadaf 
-**I design; I code; I animate;**
 I’m a **Front-End Developer** passionate about building **smooth, modern, and user-friendly** web apps.  
 I love blending **design and code** to craft seamless digital experiences.
 
