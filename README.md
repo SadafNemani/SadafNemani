@@ -7,13 +7,9 @@
 ---
 
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"/> Hey, I’m Sadaf 
-I’m a **Front-End Developer** passionate about building **smooth, modern, and user-friendly** web apps.  
+I’m a **Web Designer & Developer** passionate about building **smooth, modern, and user-friendly** web apps.  
 I love blending **design and code** to craft seamless digital experiences.
 
----
-### 📚 Currently Learning
-- ♿ Accessibility (a11y)
-- 🔐 Security Practices (Front-End)
 ---
 ### 📬 How to Reach Me  
 <a href="mailto:sedefnemani@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
