@@ -25,7 +25,7 @@ I love blending **design and code** to craft seamless digital experiences.
 
 
 **Backend & DB:**  
-<img src="https://skillicons.dev/icons?i=php,mysql,express,nodejs" height=30/>  
+<img src="https://skillicons.dev/icons?i=php,mysql,nodejs" height=30/>  
 
 **Tools & Design:**  
 <img src="https://skillicons.dev/icons?i=git,figma,wordpress" height=30/>  
